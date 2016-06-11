@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deploy>
+    <change_request>CR-11859</change_request>
+    <scripts>
+        <svn>
+            <url>http://flink.forum.kiev.ua.alfabank/svn/common/projects/B2/trunk/CR/CR-11859/VFMANALYSISINDICATORS.sql</url>
+            <revision>43140</revision>
+        </svn>
+        <svn>
+            <url>http://flink.forum.kiev.ua.alfabank/svn/common/projects/B2/trunk/CR/CR-11859/FMCalcReputationParams.sql</url>
+            <revision>43140</revision>
+        </svn>
+        <svn>
+            <url>http://flink.forum.kiev.ua.alfabank/svn/common/projects/B2/trunk/CR/CR-11859/UpdateDayTask.sql</url>
+            <revision>43140</revision>
+        </svn>
+        <svn>
+            <url>http://flink.forum.kiev.ua.alfabank/svn/common/projects/B2/trunk/CR/CR-11859/PKI_FMAANALYSE_ALFA_20160419.sql</url>
+            <revision>46630</revision>
+        </svn>
+        <svn>
+            <url>http://flink.forum.kiev.ua.alfabank/svn/common/projects/B2/trunk/OBJ/Packages/pkg_Alfa_FMAFinState.sql</url>
+            <revision>46508</revision>
+        </svn>
+    </scripts>
+</deploy>
